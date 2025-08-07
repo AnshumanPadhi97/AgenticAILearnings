@@ -1,0 +1,8 @@
+ollama
+sqlalchemy
+psycopg2-binary
+llama-index-core
+llama-index-embeddings-huggingface
+transformers
+torch
+numpy
